@@ -1,0 +1,46 @@
+body{
+    background-color: #f1f1f1;
+    font-family: sans-serif;
+}
+#iteng1{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-top: 80px
+}
+#iteng0{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+
+}
+.btn{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+.header_left{
+    position: relative;
+    height: 100%;
+    line-height: 60px;
+    background: url(img/hoyo.png) no-repeat 0 0;
+    background-size: 150px 40px;
+    padding-left: 191px;
+    margin-left: 12px;
+}
+.btn1{
+    margin-left: 50rem;
+}
+.banner1{
+    margin-top: 20px;
+}
